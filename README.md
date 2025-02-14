@@ -1,4 +1,4 @@
-🚀 Software Developer | Open-Source Contributor 
+🚀 Aspiring  Software Developer | Open-Source Contributor 
 
 👨‍🎓 B.Tech CSE (AI & ML) @ Polaris | BS Data Science @ IIT Madras
 
