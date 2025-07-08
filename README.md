@@ -1,4 +1,4 @@
-🚀 Aspiring  Software Developer | Open-Source Contributor 
+🚀 Software Developer | Open-Source Contributor 
 
 
 
