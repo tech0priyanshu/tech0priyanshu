@@ -21,7 +21,7 @@ Competitive Programming | Open-Source Governance
 📌 Building, learning, and contributing to the open-source world!
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/priyanshuyadav101106/)
-                   [Email](mailto:priyanshu101106@gmail.com)
+                   [Email](mailto:priyanshuyadv101106@gmail.com)
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tech0priyanshu&style=flat&color=blue)
